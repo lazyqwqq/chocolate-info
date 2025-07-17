@@ -1,6 +1,6 @@
 const content = {
   en: {
-    description: "chocolate is a Discord Bot designed to manage user inventories, perform lucky draws, and enhance your community server with various utilities.",
+    description: "Chocolate is a Discord Bot designed to manage user inventories for Florr.io, perform lucky draws, and enhance your community server with various utilities.",
     features: [
       "🎲 Lucky draw system (lottery)",
       "📦 Inventory tracking",
@@ -10,7 +10,7 @@ const content = {
     footer: "Made with sayolate(chocolate) by sayo_n"
   },
   ja: {
-    description: "chocolateは、ユーザーのインベントリ管理、抽選、スコア計算などを提供する多機能なDiscord Botです。",
+    description: "chocolateは、florr.io向けにユーザーのインベントリ管理、抽選、スコア計算などを提供する多機能なDiscord Botです。",
     features: [
       "🎲 抽選システム（lottery）",
       "📦 インベントリ追跡",
