@@ -7,7 +7,7 @@ const content = {
       "🛠 Custom item support",
       "📊 Score calculation based on equipped items"
     ],
-    footer: "Made with 🍫 by lazyqwqq"
+    footer: "Made with sayolate(chocolate) by sayo_n"
   },
   ja: {
     description: "chocolateは、ユーザーのインベントリ管理、抽選、スコア計算などを提供する多機能なDiscord Botです。",
@@ -17,7 +17,7 @@ const content = {
       "🛠 カスタムアイテム対応",
       "📊 装備アイテムに基づくスコア計算"
     ],
-    footer: "🍫 制作：lazyqwqq"
+    footer: "sayolate(chocolate) 制作：sayo_n（ちょっとした設定はおれ）"
   }
 };
 
